@@ -1,0 +1,6 @@
+use_frameworks!
+platform:ios, '7.0'
+target 'RacMVVMTableView' do
+	pod 'ReactiveCocoa'
+	pod 'Masonry', '~> 1.0.2'
+end
